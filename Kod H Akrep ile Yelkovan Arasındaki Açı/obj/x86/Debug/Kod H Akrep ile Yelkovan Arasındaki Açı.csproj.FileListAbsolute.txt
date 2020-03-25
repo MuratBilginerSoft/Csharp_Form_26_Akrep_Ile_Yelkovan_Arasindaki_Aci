@@ -1,0 +1,14 @@
+C:\Users\mrt_b\Desktop\Kod H Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\bin\Debug\Kod H Akrep ile Yelkovan Arasındaki Açı.exe
+C:\Users\mrt_b\Desktop\Kod H Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\bin\Debug\Kod H Akrep ile Yelkovan Arasındaki Açı.pdb
+C:\Users\mrt_b\Desktop\Kod H Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\obj\x86\Debug\Kod_H_Akrep_ile_Yelkovan_Arasındaki_Açı.Form1.resources
+C:\Users\mrt_b\Desktop\Kod H Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\obj\x86\Debug\Kod_H_Akrep_ile_Yelkovan_Arasındaki_Açı.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Kod H Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\obj\x86\Debug\Kod H Akrep ile Yelkovan Arasındaki Açı.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Kod H Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\obj\x86\Debug\Kod H Akrep ile Yelkovan Arasındaki Açı.exe
+C:\Users\mrt_b\Desktop\Kod H Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\obj\x86\Debug\Kod H Akrep ile Yelkovan Arasındaki Açı.pdb
+E:\04 - Yazılım\05 - Büyük Projeler\06 Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\obj\x86\Debug\Kod H Akrep ile Yelkovan Arasındaki Açı.exe
+E:\04 - Yazılım\05 - Büyük Projeler\06 Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\obj\x86\Debug\Kod H Akrep ile Yelkovan Arasındaki Açı.pdb
+E:\04 - Yazılım\05 - Büyük Projeler\06 Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\bin\Debug\Kod H Akrep ile Yelkovan Arasındaki Açı.exe
+E:\04 - Yazılım\05 - Büyük Projeler\06 Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\bin\Debug\Kod H Akrep ile Yelkovan Arasındaki Açı.pdb
+E:\04 - Yazılım\05 - Büyük Projeler\06 Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\obj\x86\Debug\Kod_H_Akrep_ile_Yelkovan_Arasındaki_Açı.Form1.resources
+E:\04 - Yazılım\05 - Büyük Projeler\06 Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\obj\x86\Debug\Kod_H_Akrep_ile_Yelkovan_Arasındaki_Açı.Properties.Resources.resources
+E:\04 - Yazılım\05 - Büyük Projeler\06 Akrep ile Yelkovan Arasındaki Açı\Kod H Akrep ile Yelkovan Arasındaki Açı\obj\x86\Debug\Kod H Akrep ile Yelkovan Arasındaki Açı.csproj.GenerateResource.Cache
